@@ -8,9 +8,14 @@ URL shown would be like:
     https://hackmd.io/@epsGZ2IDS96W-qwkLMe3xg/danielmse
 
 ## SPARQL Endpoint
-URL shown would be like:
+the executed URL shown would be like:
 
     http://74.207.245.150:9999/blazegraph/#query
+ 
+URL for machine shown would be like: 
+
+    http://74.207.245.150:9999/bigdata/sparql
+    
 
 ## 視覺化呈現
 
